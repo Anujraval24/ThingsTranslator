@@ -31,6 +31,10 @@ we still are looking for open source api to made a fully functional application 
 
 Watch youtube video: https://www.youtube.com/watch?v=xYSLxFrCJt0
 
+# Research Paper:
+
+official paper link: http://ijsart.com/Home/IssueDetail/20872
+
 # Future Implimentation:
 
 1. We are really looking to develop this whole project to "Sanskrit" language also because sanskrit is the source of our all indian languages, and there is nothing available for sanskrit language.<br>
