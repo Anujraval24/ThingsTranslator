@@ -2,7 +2,7 @@
 
 <b>Inspired By</b>: Google AI Projects
 </br>
-<img src="images/canvas.png" alt="ThingsTranslator-logo">
+<img src="images/5.png" alt="ThingsTranslator-logo">
 </br>
 
 ThingsTranslator is an Android application by which uses two main concept:
