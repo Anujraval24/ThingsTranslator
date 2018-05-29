@@ -14,10 +14,12 @@ By using this two main concept this application can able to detect things and tr
 # Examples:
  <b>Object Detection:</b>
  </br>
-  <img height="250px" width="300px" src="images/2.png" alt="Object-detection-example"> <img height="250px" width="300px" src="images/3.png" alt="Object-detection-example">
+ 
+  <img height="350px" width="300px" src="images/2.png" alt="Object-detection-example"> <span>  </span> <img height="350px" width="300px" src="images/3.png" alt="Object-detection-example">
  </br>
+ 
  <b>Object Character Recognition:</b>
-  <img src="images/canvas2.png" alt="OCR-example">
+  <img height="350px" width="300px" src="images/1.png" alt="OCR-example"> <span>  </span> <img height="350px" width="300px" src="images/4.png" alt="OCR-example">
  </br>
  
  
