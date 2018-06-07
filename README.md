@@ -33,7 +33,7 @@ we still are looking for open source api to made a fully functional application 
 
 # Research Paper:
 
-[Official paper link](http://ijsart.com/Home/IssueDetail/20872)
+[official paper link](http://ijsart.com/Home/IssueDetail/20872)
 
 # Download APK
 
