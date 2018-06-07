@@ -29,11 +29,15 @@ we still are looking for open source api to made a fully functional application 
 
 # Working:
 
-Watch youtube video: https://www.youtube.com/watch?v=xYSLxFrCJt0
+[Watch youtube video](https://www.youtube.com/watch?v=xYSLxFrCJt0)
 
 # Research Paper:
 
-official paper link: http://ijsart.com/Home/IssueDetail/20872
+[Official paper link](http://ijsart.com/Home/IssueDetail/20872)
+
+# Download APK
+
+[ThingsTranslator](Things-Translator-Full-and-Final.apk)
 
 # Future Implimentation:
 
