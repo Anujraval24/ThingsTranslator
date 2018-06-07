@@ -53,7 +53,7 @@ For More details you can read our Project Paper and download it from [Here](8th%
 
 # Credit and Thanks
 
-[Developer.Google](https://developers.google.com/)
+[Developers.Google](https://developers.google.com/)
 [domtz](https://github.com/dmotz/)
 [Thing-Translator](https://github.com/dmotz/thing-translator)
 
