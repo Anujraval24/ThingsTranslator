@@ -1,6 +1,6 @@
 # ThingsTranslator
 
-<b>Inspired By</b>: Google AI Projects
+<b>Inspired By</b>: Google AI Project ["Thing Translator"](https://experiments.withgoogle.com/thing-translator)
 </br>
 <img height="250px" width="300px" src="images/5.png" alt="ThingsTranslator-logo">
 
@@ -53,8 +53,8 @@ For More details you can read our Project Paper and download it from [Here](8th%
 
 # Credit and Thanks
 
-[Developers.Google](https://developers.google.com/)
-[domtz](https://github.com/dmotz/)
+[Developers.Google](https://developers.google.com/) </br>
+[domtz](https://github.com/dmotz/) </br>
 [Thing-Translator](https://github.com/dmotz/thing-translator)
 
 # Team:
