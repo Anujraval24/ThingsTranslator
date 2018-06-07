@@ -49,7 +49,13 @@ we still are looking for open source api to made a fully functional application 
 Feel free to add your future implimentation ideas here :)
 Feel free to fork an contribute. :)
 
-For More details you can read our Project Paper and download it from <a href="https://github.com/bhattsameer/ThingsTranslator/blob/master/8th%20Semester%20Final%20Year%20Report%20NEW%20.pdf">here</a>
+For More details you can read our Project Paper and download it from [Here](8th%20Semester%20Final%20Year%20Report%20NEW%20.pdf)
+
+# Credit and Thanks
+
+[Developer.Google](https://developers.google.com/)
+[domtz](https://github.com/dmotz/)
+[Thing-Translator](https://github.com/dmotz/thing-translator)
 
 # Team:
 
